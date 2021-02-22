@@ -1,4 +1,4 @@
-# Front-end Style Guide
+# Front-end Mentor Challenger - Poke-Card
 
 ## Layout
 
